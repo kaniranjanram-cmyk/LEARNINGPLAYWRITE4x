@@ -1,0 +1,9 @@
+# Git installation (portable)
+PortableGit/
+git-portable.exe
+
+# Command Code local config
+.commandcode/
+
+# Node
+node_modules/
