@@ -8,3 +8,4 @@ let x1=15;
  console.log(x1);
  x1-=6;//x1=x1-6
  console.log(x1);
+ 
